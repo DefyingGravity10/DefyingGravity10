@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1> Hello there!👋 </h1>
+
+I am Jeanne Clarisse Toledo. I am currently taking up my Bachelor's Degree in Computer Science at the University of the Philippines - Diliman!
+
+As of now, the technologies I am familiar with include:
+<ul>
+  <li><code>Python</code></li>
+  <li><code>C</code></li>
+  <li><code>HTML + CSS</code></li>
+  <li><code>Javascript</code></li>
+  <li><code>Typescript</code></li>
+</ul>
+
+On the other hand, I am currently learning the <code>Svelte framework</code>.
+
+More things will be added soon ✨
 
 <!--
 **DefyingGravity10/DefyingGravity10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
