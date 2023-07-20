@@ -9,9 +9,8 @@ As of now, the technologies I am familiar with include:
   <li><code>HTML + CSS</code></li>
   <li><code>Javascript</code></li>
   <li><code>Typescript</code></li>
+  <li><code>Svelte framework</code></li>
 </ul>
-
-On the other hand, I am currently learning the <code>Svelte framework</code>.
 
 More things will be added soon ✨
 
