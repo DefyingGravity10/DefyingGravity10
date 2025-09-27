@@ -1,5 +1,7 @@
 <h1> Hello there!👋 </h1>
 
+Work in Progress...
+<!--
 I am Jeanne Clarisse Toledo. I am currently taking up my Bachelor's Degree in Computer Science at the University of the Philippines - Diliman!
 
 As of now, the technologies I am familiar with include:
@@ -14,7 +16,7 @@ As of now, the technologies I am familiar with include:
 
 More things will be added soon ✨
 
-<!--
+
 **DefyingGravity10/DefyingGravity10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
